@@ -1,2 +1,3 @@
 _site/
-.jeykll*
+.jekyll-cache/*
+.jekyll-cache/
